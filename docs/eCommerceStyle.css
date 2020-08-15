@@ -41,8 +41,8 @@ header {
 #offer {
 	font-family: 'Montserrat', sans-serif;
 	clear: both;
-	background-image: url("defaults/Gold-Texture.jpg");
-	color: rgba(0,0,0,1.00);
+	background-color: rgba(246,246,246,1.00);
+	color: rgba(146,146,146,1.00);
 	padding-left: 115px;
 	padding-top: 57px;
 	padding-bottom: 57px;
@@ -95,7 +95,6 @@ header {
 #mainWrapper {
 	width: 80%;
 	padding-left: 10%;
-	background-image: url("defaults/starryBackground.jpg")
 }
 /*menu elements */
 .menu ul li {
