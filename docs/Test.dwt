@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+		<!-- TemplateBeginEditable name="doctitle" -->
+		<title>Untitled Document</title>
+		<!-- TemplateEndEditable -->
+		<!-- TemplateBeginEditable name="head" -->
+		<!-- TemplateEndEditable -->
+</head>
+
+	<body background="Environment/starfield_background.png" width="1024" height="1024">
+		
+		
+		<p><p><p><p>
+		
+				<table width="2" align="center"> 
+					<tr>
+						<th colspan="4" bgcolor="#E5BF6D" align="center">Welcome to Space Dust!</th>
+				  </tr>
+
+					<tr>
+						<td bgcolor="#E5BF6D">Email</td>
+						<td><input type="email" bgcolor="white"></td>
+					</tr>
+					<tr>
+						<td bgcolor="#E5BF6D">Password</td>
+						<td><input type="password" bgcolor="white"></td>
+					</tr>
+					<tr>
+						<td align="center"><input name="btn_signup" type="button" id="btn_signup" style="width:100%" value="Sign Up!"></td>
+					  	<td align="center"><input name="btn_login" type="button" id="btn_login" style="width:100%" value="Log In!" ></td>
+					</tr>
+			
+		</table>
+		</p></p></p></p>
+
+
+</body>
+</html>
