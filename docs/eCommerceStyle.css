@@ -11,6 +11,10 @@ header {
 	font-style: normal;
 	font-weight: 400;
 }
+.vl {
+  border-left: 6px solid green;
+  height: 500px;
+}
 /* Logo placeholder*/
 #logo {
 	float: left;
