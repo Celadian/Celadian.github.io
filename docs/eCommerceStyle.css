@@ -280,7 +280,7 @@ footer .footerlinks {
 	overflow: hidden;
 	width: 95%;
 	margin-top: 40px;
-	background-image: url("docs/defaults/starryBackground.jpg");
+	background-image: url('starryBackground.jpg');
 }
 /* Prices of products in catalog view */
 .productRow .productInfo .price {
