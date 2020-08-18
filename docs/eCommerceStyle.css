@@ -13,7 +13,7 @@ header {
 }
 .vl {
   border-left: 1px solid black;
-  height: 1000px;
+  height: 750px;
 }
 /* Logo placeholder*/
 #logo {
@@ -45,8 +45,9 @@ header {
 #offer {
 	font-family: 'Montserrat', sans-serif;
 	clear: both;
+	background-image: url("defaults/dust.jpg");
 	background-color: rgba(246,246,246,1.00);
-	color: rgba(146,146,146,1.00);
+	color: rgba(227,185,38,1.00);
 	padding-left: 115px;
 	padding-top: 57px;
 	padding-bottom: 57px;
@@ -347,6 +348,7 @@ header #headerLinks a {
 /* Offer- Text banner */
 #mainWrapper #offer {
 	padding-left: 22%;
+	
 }
 /* Paragraphs in footer */
 footer .footerlinks p {
@@ -378,6 +380,7 @@ header #headerLinks a {
 #mainWrapper #offer {
 	padding-left: 0px;
 	text-align: center;
+	
 }
 /* Menubar in sidebar */
 #content .sidebar #menubar {
@@ -425,7 +428,7 @@ header #headerLinks a {
 
 /* The Modal (background) */
 .modal {
-  display: none; /* Hidden by default */
+  display: table-row; /* Hidden by default */
   position: fixed; /* Stay in place */
   z-index: 1; /* Sit on top */
   left: 0;
@@ -433,7 +436,7 @@ header #headerLinks a {
   width: 100%; /* Full width */
   height: 100%; /* Full height */
   overflow: auto; /* Enable scroll if needed */
-  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,1.00); /* Fallback color */
   background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
   padding-top: 60px;
 }
