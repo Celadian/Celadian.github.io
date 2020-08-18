@@ -45,7 +45,7 @@ header {
 #offer {
 	font-family: 'Montserrat', sans-serif;
 	clear: both;
-	background-image: url("defaults/dust.jpg");
+	background-image: url('defaults/dust.jpg');
 	background-color: rgba(246,246,246,1.00);
 	color: rgba(227,185,38,1.00);
 	padding-left: 115px;
