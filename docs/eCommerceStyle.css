@@ -12,8 +12,8 @@ header {
 	font-weight: 400;
 }
 .vl {
-  border-left: 6px solid green;
-  height: 500px;
+  border-left: 1px solid black;
+  height: 1000px;
 }
 /* Logo placeholder*/
 #logo {
