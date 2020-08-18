@@ -65,7 +65,7 @@ header {
 	float: left;
 	width: 12%;
 	padding-left: 3%;
-	padding-right: 3%;
+	padding-right: 0%;
 	text-align: center;
 	background-color: rgba(246,246,246,1.00);
 	padding-top: 18px;
@@ -76,7 +76,7 @@ header {
 	font-family: 'Montserrat', sans-serif;
 	color: rgba(146,146,146,1.00);
 	float: left;
-	width: 76%;
+	width: 79%;
 	padding-left: 3%;
 	padding-right: 3%;
 	text-align: center;
